@@ -29,7 +29,7 @@ Tab::Tab(QObject *parent, bool invalid)
 {
     m_uid = -1;
     m_canReload = true;
-    m_iconColor = QColor("transparent");
+    m_iconColor = Qt::transparent;
     invalidChanged(m_invalid = invalid);
 }
 
