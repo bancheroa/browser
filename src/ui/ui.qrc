@@ -30,5 +30,8 @@
         <file>tabview/content/WebContent.qml</file>
         <file>tabview/content/SettingsContent.qml</file>
         <file>utils/qmldir</file>
+        <file>tabview/content/ExtensionsContent.qml</file>
+        <file>tabview/content/AboutContent.qml</file>
+        <file>components/ThemeSelection.qml</file>
     </qresource>
 </RCC>
